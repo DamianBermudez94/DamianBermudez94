@@ -1,6 +1,6 @@
 ### hola! Soy Damián Bermúdez👋
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="C:\Users\Users\Pictures\portada-porfolio.png" height="200"/>
 </p>
 <br>
 
@@ -90,7 +90,7 @@
 
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
+Credits: [Ovindu Wijethunge](https://github.com/DamianBermudez94)
 
 Last Edited on: 17/04/2021
 
