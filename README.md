@@ -1,12 +1,8 @@
-### hola! Soy Damián Bermúdez👋
+  ### hola! Soy Damián Bermúdez👋
 <p align="center">
   <img src="C:\Users\Users\Pictures\portada-porfolio.png" height="200"/>
 </p>
 <br>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
 <hr>
 <h1 align="center">Developer Web Full Stacks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
 <h3 align="center"</h3>
