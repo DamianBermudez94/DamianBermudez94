@@ -1,4 +1,4 @@
-!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -23,7 +23,7 @@
 <div align="center">
   <p>- 🤓 Actualmente estoy realizando proyectos y profundizando las siguientes tecnologias  **JavaScript, React,Nodejs, MongoDB**</p>
   <p>- 🤔 Me gusta estar todo el tiempo actulizandome y adaptandome a lo que requiere el mercado.</p>
-  <p>- 📫 No dudes en comunicarte conmigo **bermudezdamian7qgmail.com**</p>
+  <p>- 📫 No dudes en comunicarte conmigo **<a href="https://bermudezdamian7@gmail.com" target="_blank">bermudezdamian7@gmail.com</a>**</p>
 </div>
 
 <!--Intro end-->
@@ -67,4 +67,3 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
