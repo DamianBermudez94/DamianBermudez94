@@ -19,6 +19,9 @@
 <!--Intro start-->
 
 <div align="center">
+  <p>
+    🚀 Mis objetivos a corto plazo incluyen incursionar full time en la industria de IT para seguir creciendo como desarrollador web full stack. Siempre me mantengo actualizado con las últimas tecnologías y tendencias en desarrollo web.
+  </p>
   <p>- 🤓 Actualmente estoy realizando proyectos y profundizando las siguientes tecnologias  **JavaScript, React,Nodejs, MongoDB**</p>
   <p>- 🤔 Me gusta estar todo el tiempo actulizandome y adaptandome a lo que requiere el mercado.</p>
   <p>- 📫 No dudes en comunicarte conmigo **<a href="https://bermudezdamian7@gmail.com" target="_blank">bermudezdamian7@gmail.com</a>**</p>
