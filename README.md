@@ -4,25 +4,19 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Damián Bermúdez</h1></summary>
+   <h1 style="display: inline-block">Hola 👋, Soy Damián Bermúdez</h1>
+    <h2 style="display: inline-block">Developer Web Full Stack 💻</h2>
   </ul>
-</div>
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Developer Web Full Stack 💻</h2></summary>
-  </ul>
-
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--Intro start-->
-
 <div align="center">
-  <p>-🚀 Mis objetivos a corto plazo incluyen incursionar full time en la industria de IT para seguir creciendo como desarrollador Web Full Stack. Siempre me mantengo actualizado con las últimas tecnologías y tendencias en desarrollo web.</p>
-  <p>- 🤓 Actualmente estoy realizando proyectos y profundizando las siguientes tecnologias  **JavaScript, React,Nodejs, MongoDB**</p>
-  <p>- .</p>
-  <p>- 🤔 Me gusta estar todo el tiempo actulizandome y adaptandome a lo que requiere el mercado.</p>
+  <p>
+    Mis estudios los adquiri en la plataforma APX donde aprendí la mayoría de mis habilidades, también hice cursos en la plataforma udemy (Master en JavaScript, Master en React y por eultimo estoy haciendo un curso de diseño web).
+    En los últimos años me especialicé en todo lo que viene hacer el ecosistema de la web del lado del Frond End aprendiendo diferentes tecnologías y modernizando mi stack.
+    Mis habilidades van desde la implementación de diseños responsivos hasta la integración fluida con el back-end. Siempre estoy en la búsqueda de la combinación perfecta entre la estética visual y la eficiencia técnica. ¡Estoy emocionado de colaborar en proyectos que 
+    desafíen y eleven los estándares del desarrollo web!
+  </p>
   <p>- 📫 No dudes en comunicarte conmigo **<a href="https://bermudezdamian7@gmail.com" target="_blank">bermudezdamian7@gmail.com</a>**</p>
 </div>
 
