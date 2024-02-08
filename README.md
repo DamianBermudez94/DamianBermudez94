@@ -17,7 +17,7 @@
     Mis habilidades van desde la implementación de diseños responsivos hasta la integración fluida con el back-end. Siempre estoy en la búsqueda de la combinación perfecta entre la estética visual y la eficiencia técnica. ¡Estoy emocionado de colaborar en proyectos que 
     desafíen y eleven los estándares del desarrollo web!
   </p>
-  <p>- 📫 No dudes en comunicarte conmigo **<a href="https://bermudezdamian7@gmail.com" target="_blank">bermudezdamian7@gmail.com</a>**</p>
+  <p>- 📫 No dudes en comunicarte conmigo *<a href="https://bermudezdamian7@gmail.com" target="_blank">bermudezdamian7@gmail.com</a>*</p>
 </div>
 
 <!--Intro end-->
