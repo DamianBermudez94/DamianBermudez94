@@ -14,8 +14,7 @@
   <p>
      Mis estudios los adquirí en la plataforma APX donde aprendí la mayoría de mis habilidades, también hice cursos en la plataforma udemy (Master en JavaScript, Master en React y por último estoy haciendo un curso de diseño web).
     En los últimos años me especialicé en todo lo que viene hacer el ecosistema de la web del lado del Front-end aprendiendo diferentes tecnologías y modernizando mi stack.
-    Mis habilidades van desde la implementación de diseños responsivos hasta la integración fluida con el back-end. Siempre estoy en la búsqueda de la combinación perfecta entre la estética visual y la eficiencia técnica. ¡Estoy emocionado de colaborar en proyectos que
-    desafíen y eleven los estándares del desarrollo web.
+    Mis habilidades van desde la implementación de diseños responsivos hasta la integración fluida con el back-end. Siempre estoy en la búsqueda de la combinación perfecta entre la estética visual y la eficiencia técnica.
   </p>
   <p>- 📫 No dudes en comunicarte conmigo *<a href="https://bermudezdamian7@gmail.com" target="_blank">bermudezdamian7@gmail.com</a>*</p>
 </div>
