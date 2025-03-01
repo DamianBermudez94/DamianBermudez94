@@ -16,8 +16,12 @@
     En los últimos años me especialicé en todo lo que viene hacer el ecosistema de la web del lado del Front-end aprendiendo diferentes tecnologías y modernizando mi stack.
     Mis habilidades van desde la implementación de diseños responsivos hasta la integración fluida con el back-end. Siempre estoy en la búsqueda de la combinación perfecta entre la estética visual y la eficiencia técnica.
   </p>
-  <p>- 📫 No dudes en comunicarte conmigo <a href="https://bermudezdamian7@gmail.com" target="_blank">bermudezdamian7@gmail.com</a></p>
-  <p>- 📫 Te dejo el link de mi porfolio para que puedas ver mis proyectos/trabajos <a href="https://www.damianbermudezdev.es/" target="_blank">Porfolio</a></p>
+  <h3>📩 Contacto</h3>
+<p>📧 <a href="mailto:bermudezdamian7@gmail.com" style="color:#4CAF50;">bermudezdamian7@gmail.com</a></p>
+
+<h3>🌐 Portafolio</h3>
+<p>🚀 <a href="https://www.damianbermudezdev.es/" style="color:#007bff;">Ver mi portfolio</a></p>
+
 </div>
 
 <!--Intro end-->
