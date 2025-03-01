@@ -27,13 +27,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Skills👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Skills</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,nodejs,git,github,figma,firebase,mongodb,mysql,nextjs,astro,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,postman,git,github,react,nextjs,figma,firebase,mongodb,mysql,astro,vscode&perline=14" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/damian-bermudez-4a4a33204/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="https://www.instagram.com/damibermudez/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  <a href="https://damianbermudezdev.es/" target="_blank"  height="50" width="50">💻</a>
+  <a href="https://damianbermudezdev.es/" target="_blank"  height="50" width="50">Porfolio</a>
  
 </p>
 
