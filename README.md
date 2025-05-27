@@ -15,7 +15,7 @@
 
 ### 📩 **Contacto**  
 📧 **Email:** [bermudezdamian7@gmail.com](mailto:bermudezdamian7@gmail.com)  
-🌐 **Portafolio:** [damianbermudezdev.es](https://www.damianbermudezdev.es/)  
+🌐 **Portafolio:** [damianbermudezdev.es](https://www.damianbermudezdev.com/)  
 
 ---
 
